@@ -49,7 +49,7 @@ Traditional metrics (revenue, profit) don't capture true financial health. This 
 
 ### Leaderboard Score
 - **Public Score**: 0.8849
-- **Ranking**: Top 28% (among 450+ participants)
+- **Ranking**: Top 28% (among 950+ participants)
 
 ---
 
