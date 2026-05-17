@@ -1,7 +1,7 @@
 # SME Financial Health Prediction System
 ## Predicting Financial Well-Being of Small Businesses in Southern Africa
 
-**Competition Score: 0.8849 (Top 28%)**
+**Competition Score: 0.8849 28/900**
 
 ---
 
@@ -49,7 +49,7 @@ Traditional metrics (revenue, profit) don't capture true financial health. This 
 
 ### Leaderboard Score
 - **Public Score**: 0.8849
-- **Ranking**: Top 28% (among 950+ participants)
+- **Ranking**: Top 28 (among 950+ participants)
 
 ---
 
